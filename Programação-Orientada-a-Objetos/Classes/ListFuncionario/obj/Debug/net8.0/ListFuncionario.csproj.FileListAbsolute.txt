@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\bin\Debug\net8.0\ListFuncionario.exe
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\bin\Debug\net8.0\ListFuncionario.deps.json
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\bin\Debug\net8.0\ListFuncionario.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\bin\Debug\net8.0\ListFuncionario.dll
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\bin\Debug\net8.0\ListFuncionario.pdb
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.dll
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\refint\ListFuncionario.dll
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.pdb
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ListFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\Classes\ListFuncionario\obj\Debug\net8.0\ref\ListFuncionario.dll

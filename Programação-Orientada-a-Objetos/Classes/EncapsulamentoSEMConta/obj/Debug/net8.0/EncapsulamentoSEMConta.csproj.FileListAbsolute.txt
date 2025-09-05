@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\bin\Debug\net8.0\EncapsulamentoSEMConta.exe
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\bin\Debug\net8.0\EncapsulamentoSEMConta.deps.json
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\bin\Debug\net8.0\EncapsulamentoSEMConta.runtimeconfig.json
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\bin\Debug\net8.0\EncapsulamentoSEMConta.dll
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\bin\Debug\net8.0\EncapsulamentoSEMConta.pdb
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.dll
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\refint\EncapsulamentoSEMConta.dll
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.pdb
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\EncapsulamentoSEMConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO\Classes\EncapsulamentoSEMConta\obj\Debug\net8.0\ref\EncapsulamentoSEMConta.dll
