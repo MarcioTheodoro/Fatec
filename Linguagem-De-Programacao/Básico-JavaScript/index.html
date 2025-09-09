@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Básico JavaScript</title>
+</head>
+<body>
+    <script>
+        window.alert("Salve Geral!!");
+        console.log("Testando...");
+        const numero = 7; //tipo e valores imutáveis -> Primeira a ser usada
+        let verificar; //escopo de bloco -> Usar se não pode usar const
+        var nome; //escopo global -> NUNCA usar se pode usar const ou let
+        nome = "Marcioca";
+        console.log(nome);
+
+        let numero1, numero2;
+        numero1 = prompt("Aloha, fala teu primeiro número: ")
+        numero2 = prompt("Fala teu segundo ae pae: ")
+        resposta = numero1 + numero2;
+        window.alert("Sua soma seria: " + resposta);
+    </script>
+</body>
+</html>
