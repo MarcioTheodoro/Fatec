@@ -1,0 +1,15 @@
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.AssemblyInfoInputs.cache
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.AssemblyInfo.cs
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.csproj.CoreCompileInputs.cache
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.sourcelink.json
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\bin\Debug\net6.0\VetorProduto.exe
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\bin\Debug\net6.0\VetorProduto.deps.json
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\bin\Debug\net6.0\VetorProduto.runtimeconfig.json
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\bin\Debug\net6.0\VetorProduto.dll
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\bin\Debug\net6.0\VetorProduto.pdb
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.dll
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\refint\VetorProduto.dll
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.pdb
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\VetorProduto.genruntimeconfig.cache
+C:\Users\Eyele\OneDrive\Desktop\Td\Fatec\Fatec\Programação-Orientada-a-Objetos\Classes\VetorProduto\obj\Debug\net6.0\ref\VetorProduto.dll
