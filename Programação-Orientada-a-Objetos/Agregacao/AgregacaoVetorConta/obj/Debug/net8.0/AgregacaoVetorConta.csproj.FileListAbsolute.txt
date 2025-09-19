@@ -1,0 +1,15 @@
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfo.cs
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.sourcelink.json
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.exe
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.deps.json
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.runtimeconfig.json
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.dll
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\refint\AgregacaoVetorConta.dll
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.pdb
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.genruntimeconfig.cache
+C:\Users\aluno\Aula 19-09\Fatec\Programação-Orientada-a-Objetos\Agregacao\AgregacaoVetorConta\obj\Debug\net8.0\ref\AgregacaoVetorConta.dll
