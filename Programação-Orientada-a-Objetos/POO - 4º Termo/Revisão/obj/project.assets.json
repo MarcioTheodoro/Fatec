@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eyele\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\Revisão.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\Revisão.csproj",
       "projectName": "Revisão",
-      "projectPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\Revisão.csproj",
-      "packagesPath": "C:\\Users\\Eyele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\POO\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\Revisão.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\POO\\Fatec\\Programação-Orientada-a-Objetos\\POO - 4º Termo\\Revisão\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eyele\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
