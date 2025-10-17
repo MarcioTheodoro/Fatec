@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.sourcelink.json
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.exe
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.deps.json
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.runtimeconfig.json
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.dll
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.pdb
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.dll
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\refint\PolimorfismoConta.dll
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.pdb
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoConta\obj\Debug\net8.0\ref\PolimorfismoConta.dll

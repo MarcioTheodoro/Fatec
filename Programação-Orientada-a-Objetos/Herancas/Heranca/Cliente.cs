@@ -9,16 +9,30 @@ namespace Heranca
     {
         // APENAS na 
         protected int codigo;
-        protected private string? nome;
+        protected private string? nome; //protected permite o acesso da classe que o declarou e por todas as classes filhas
         public int Codigo
         {
             get { return codigo; }
             set { codigo = value; }
         }
-        private string? Nome
+        private string? Nome //private apenas restringe o acesso, ponto
         {
             get { return nome; }
             set { codigo = value; }
+        }
+
+        /* Neste caso do construtor, ocorre o polimorfismo estático, esta na mesa classe e com quantidade de parãmetros
+        */
+
+        public Cliente(int codigo, string nome)
+        {
+            Codigo = codigo;
+            Nome = nome;
+        }
+
+        public Cliente()
+        {
+            
         }
     }
 }

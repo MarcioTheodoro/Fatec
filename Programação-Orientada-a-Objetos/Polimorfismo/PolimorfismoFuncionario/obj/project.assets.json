@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Herancas\\Heranca\\Heranca.csproj",
-      "projectName": "Heranca",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Herancas\\Heranca\\Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Polimorfismo\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+      "projectName": "PolimorfismoFuncionario",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Polimorfismo\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Herancas\\Heranca\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\trabaio\\Fatec\\Programação-Orientada-a-Objetos\\Polimorfismo\\PolimorfismoFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

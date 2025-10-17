@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Herancas\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Herancas\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Herancas\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Herancas\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Herancas\Heranca\obj\Debug\net8.0\Heranca.sourcelink.json

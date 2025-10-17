@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\trabaio\Fatec\Programação-Orientada-a-Objetos\Polimorfismo\PolimorfismoFuncionario\obj\Debug\net8.0\PolimorfismoFuncionario.sourcelink.json
