@@ -1,0 +1,4 @@
+D:\POO_252_manha\ConstrutorFuncionario\obj\Debug\net8.0\ConstrutorFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_manha\ConstrutorFuncionario\obj\Debug\net8.0\ConstrutorFuncionario.AssemblyInfoInputs.cache
+D:\POO_252_manha\ConstrutorFuncionario\obj\Debug\net8.0\ConstrutorFuncionario.AssemblyInfo.cs
+D:\POO_252_manha\ConstrutorFuncionario\obj\Debug\net8.0\ConstrutorFuncionario.csproj.CoreCompileInputs.cache

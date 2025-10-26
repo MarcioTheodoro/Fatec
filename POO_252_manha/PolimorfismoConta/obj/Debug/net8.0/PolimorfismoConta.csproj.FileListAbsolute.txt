@@ -1,0 +1,14 @@
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.AssemblyInfoInputs.cache
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.AssemblyInfo.cs
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.csproj.CoreCompileInputs.cache
+D:\POO_252_manha\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.exe
+D:\POO_252_manha\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.deps.json
+D:\POO_252_manha\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.runtimeconfig.json
+D:\POO_252_manha\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.dll
+D:\POO_252_manha\PolimorfismoConta\bin\Debug\net8.0\PolimorfismoConta.pdb
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.dll
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\refint\PolimorfismoConta.dll
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.pdb
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\PolimorfismoConta.genruntimeconfig.cache
+D:\POO_252_manha\PolimorfismoConta\obj\Debug\net8.0\ref\PolimorfismoConta.dll
