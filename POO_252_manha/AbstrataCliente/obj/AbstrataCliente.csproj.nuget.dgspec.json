@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj": {}
+    "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj": {}
   },
   "projects": {
-    "D:\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj": {
+    "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj",
+        "projectUniqueName": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj",
         "projectName": "AbstrataCliente",
-        "projectPath": "D:\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\POO_252_manha\\AbstrataCliente\\obj\\",
+        "projectPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\AbstrataCliente\\AbstrataCliente.csproj",
+        "packagesPath": "C:\\Users\\Eyele\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\AbstrataCliente\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Eyele\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

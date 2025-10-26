@@ -8,15 +8,10 @@ namespace PolimorfismoFuncionario
     public class Funcionario
     {
         protected int codigo;
-        protected string nome;
+        protected string? nome;
         protected double salario;
 
-        public virtual void Mostrar()
-        {
-            Console.WriteLine($"Codigo: {codigo} Nome: {nome} Salário: {salario:c}");
-        }
-
-        public Funcionario(int codigo, string nome, double salario)
+        public Funcionario(int codigo, string? nome, double salario)
         {
             Codigo = codigo;
             Nome = nome;
@@ -38,11 +33,16 @@ namespace PolimorfismoFuncionario
             get { return salario; }
             set { salario = value; }
         }
-        
+
         public virtual double CalcularBonificacao()
         {// apresentar no método Main()
             return Salario * 10 / 100;
         }
+        public virtual void Mostrar()
+        {
+            Console.WriteLine($"Codigo: {Codigo} \tNome: {Nome} \tSalário: {Salario:c} \tBonificação: {CalcularBonificacao():c}");
+        }
+        
 
         //setas brancas -> herança -> :
         //setas trastejadas -> dependência -> basta incluir um atributo de outra classe como parâmetro num método
