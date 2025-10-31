@@ -13,5 +13,9 @@ d1.VetF = new List<Funcionario>();
 d1.Admitir(a1);
 d1.Admitir(c1);
 d1.ListarFuncionarios();
+Console.WriteLine($"Total de salários: {d1.CalcularFolha(30):c}");
 
 Departamento d2 = new Departamento(2,"Desenvolvimento");
+
+Dependente dependente = new Dependente(1, "Dependente 1", 16);
+Dependente dependente2 = new Dependente(2, "Dependente 2", 20);

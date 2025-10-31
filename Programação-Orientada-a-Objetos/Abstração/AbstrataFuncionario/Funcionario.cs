@@ -45,5 +45,9 @@ namespace AbstrataFuncionario
             Console.WriteLine($"Código: {Codigo} \tNome: {Nome} \tSalário {Salario:c}");
         }
         public abstract double CalcularSalario(int diasUteis);
+        public int CalcularTotalDependente()
+        {
+            
+        }
     }
 }
