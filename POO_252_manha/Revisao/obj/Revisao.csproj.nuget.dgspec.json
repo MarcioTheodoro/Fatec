@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\Revisao\\Revisao.csproj": {}
+    "D:\\POO_252_manha\\Revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\Revisao\\Revisao.csproj": {
+    "D:\\POO_252_manha\\Revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "D:\\POO_252_manha\\Revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\Revisao\\Revisao.csproj",
-        "packagesPath": "C:\\Users\\Eyele\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eyele\\OneDrive\\Desktop\\Td\\Fatec\\Fatec\\POO_252_manha\\Revisao\\obj\\",
+        "projectPath": "D:\\POO_252_manha\\Revisao\\Revisao.csproj",
+        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+        "outputPath": "D:\\POO_252_manha\\Revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eyele\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

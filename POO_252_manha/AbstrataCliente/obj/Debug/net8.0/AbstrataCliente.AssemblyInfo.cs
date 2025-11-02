@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstrataCliente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c91a2c52661b8275b65d1fb877f3a117b1b0f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059862d5613aa92443b76bda89f6b04fd6580179")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstrataCliente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstrataCliente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

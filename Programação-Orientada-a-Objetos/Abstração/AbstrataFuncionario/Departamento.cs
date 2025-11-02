@@ -36,6 +36,13 @@ namespace AbstrataFuncionario
                 }
             }
         }
+        public void MostrarQtdeDependentesFuncionario()
+        {
+            foreach (var funcionario in VetF)
+            {
+                Console.WriteLine($"Código: {funcionario.Codigo} \tNome: {funcionario.Nome} \tTotal de Dependentes: {funcionario.CalcularTotalDependentes()}");
+            }
+        }
         public double CalcularFolha(int diasUteis)
         {
             double folha = 0;

@@ -16,5 +16,10 @@ namespace AbstrataFuncionario
         {
             return (Salario/30) * diasUteis * Porcentagem/100 + Salario;
         } 
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine($"Porcentagem {Porcentagem:n}%");
+        }
     }
 }

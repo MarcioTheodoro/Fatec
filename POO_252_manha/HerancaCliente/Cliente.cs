@@ -24,7 +24,7 @@ namespace HerancaCliente
             set { nome = value; }
         }
         // neste caso do construtor, ocorre o polimorfismo
-        // estático, esta na mesma classe e com quantidade
+        // estático, esta na mesma casse e com quantidade
         // de parâmetros diferentes
         public Cliente(int codigo, string nome)
         {
