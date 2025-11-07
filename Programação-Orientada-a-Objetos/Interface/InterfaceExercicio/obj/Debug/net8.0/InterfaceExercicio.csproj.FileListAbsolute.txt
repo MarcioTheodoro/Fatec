@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.sourcelink.json
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.exe
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.deps.json
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.runtimeconfig.json
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.dll
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.pdb
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.dll
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\refint\InterfaceExercicio.dll
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.pdb
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Aula de hoje\Fatec\Programação-Orientada-a-Objetos\Interface\InterfaceExercicio\obj\Debug\net8.0\ref\InterfaceExercicio.dll
